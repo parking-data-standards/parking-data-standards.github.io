@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: apds_post
 title: "OpenAPI v3 Interface Specification"
 ---
 # OpenAPI Interface Specification
